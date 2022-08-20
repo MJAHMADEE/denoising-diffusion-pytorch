@@ -19,7 +19,7 @@ setup(
     'einops',
     'ema-pytorch',
     'pillow',
-    'torch',
+    'caffe',
     'torchvision',
     'tqdm'
   ],
